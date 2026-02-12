@@ -1,0 +1,93 @@
+{
+  "routeAssets": {
+    "assets/page": {
+      "chunkIds": [
+        "143"
+      ],
+      "assets": [
+        "/static/js/async/assets/page.45c57b57.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "claim/(id)/page": {
+      "chunkIds": [
+        "971",
+        "899"
+      ],
+      "assets": [
+        "/static/js/async/971.cd4e3146.js",
+        "/static/js/async/claim/(id)/page.ad43bad0.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "create/page": {
+      "chunkIds": [
+        "483",
+        "971",
+        "297",
+        "772"
+      ],
+      "assets": [
+        "/static/js/async/483.f2bd1453.js",
+        "/static/js/async/971.cd4e3146.js",
+        "/static/js/async/297.afb0ff34.js",
+        "/static/js/async/create/page.1eb1ab9b.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "index": {
+      "chunkIds": [
+        "408",
+        "783",
+        "535",
+        "493",
+        "418",
+        "410"
+      ],
+      "assets": [
+        "/static/js/lib-react.af272637.js",
+        "/static/js/lib-router.d19853dc.js",
+        "/static/js/lib-polyfill.b5e96960.js",
+        "/static/css/418.1b715ab5.css",
+        "/static/js/418.b49316b0.js",
+        "/static/css/index.2e65871b.css",
+        "/static/js/index.e470655b.js"
+      ],
+      "referenceCssAssets": [
+        "/static/css/418.1b715ab5.css",
+        "/static/css/index.2e65871b.css"
+      ]
+    },
+    "page": {
+      "chunkIds": [
+        "807"
+      ],
+      "assets": [
+        "/static/js/async/page.1c6c8df3.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "share/page": {
+      "chunkIds": [
+        "690",
+        "303"
+      ],
+      "assets": [
+        "/static/js/async/690.320fd527.js",
+        "/static/js/async/share/page.805f4802.js"
+      ],
+      "referenceCssAssets": []
+    },
+    "wishlist/page": {
+      "chunkIds": [
+        "483",
+        "301"
+      ],
+      "assets": [
+        "/static/js/async/483.f2bd1453.js",
+        "/static/js/async/wishlist/page.0f3454b2.js"
+      ],
+      "referenceCssAssets": []
+    }
+  }
+}
